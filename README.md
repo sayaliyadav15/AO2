@@ -80,3 +80,14 @@ Got to their official website and create an account on: [https://github.com/](u
 11. **Pull** : pulling implies retrieving changes from a remote repository and applying those changes to your local branch. It is frequently used to keep your local copy current with the most recent modifications from a remote repository.
 12. **Remote** : A remote in Git is a reference to a repository stored on a remote server, most commonly on sites like GitHub. It enables you to interface with and synchronize changes across your local and remote repositories.
 13. **Repository**: A repository in Git is a storage area that contains all the project files, history, and configuration. It might be local (on your computer) or remote (on a server).
+
+=> References :
+1. For Git:
+Git documentation : h[ttps://git-scm.com/doc​](url)
+git download : [https://git-scm.com/downloads ](url)
+Git - What Is Git? git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F. [https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F](url)
+2. For GitHub :
+GitHub documentation : [https://docs.github.com/en](url)
+GitHub website :  [https://github.com](url)
+3. Ellis, Danielle. “Git Vs GitHub: What’s the Difference?” HubSpot Blog, 20 Jan. 2023, [blog.hubspot.com/website/git-vs-github#:~:text=Git%20is%20a%20version%20control,cannot%20use%20GitHub%20without%20Git.](url)
+4. WebStorm : [https://www.jetbrains.com/webstorm/](url)
