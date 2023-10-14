@@ -83,11 +83,14 @@ Got to their official website and create an account on: [https://github.com/](u
 
 => References :
 1. For Git:
-Git documentation : [https://git-scm.com/doc​](url)
-git download : [https://git-scm.com/downloads ](url)
-Git - What Is Git? git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F. [https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F](url)
+- Git documentation : [https://git-scm.com/doc​](url)
+- Git download : [https://git-scm.com/downloads ](url)
+- Git - What Is Git? git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F. [https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F](url)
+
 2. For GitHub :
-GitHub documentation : [https://docs.github.com/en](url)
-GitHub website :  [https://github.com](url)
+- GitHub documentation : [https://docs.github.com/en](url)
+- GitHub website :  [https://github.com](url)
+
 3. Ellis, Danielle. “Git Vs GitHub: What’s the Difference?” HubSpot Blog, 20 Jan. 2023, [blog.hubspot.com/website/git-vs-github#:~:text=Git%20is%20a%20version%20control,cannot%20use%20GitHub%20without%20Git.](url)
+
 4. WebStorm : [https://www.jetbrains.com/webstorm/](url)
