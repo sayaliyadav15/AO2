@@ -83,7 +83,7 @@ Got to their official website and create an account on: [https://github.com/](u
 
 => References :
 1. For Git:
-Git documentation : h[ttps://git-scm.com/doc​](url)
+Git documentation : [https://git-scm.com/doc​](url)
 git download : [https://git-scm.com/downloads ](url)
 Git - What Is Git? git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F. [https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F](url)
 2. For GitHub :
