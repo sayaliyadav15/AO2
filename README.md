@@ -18,11 +18,14 @@
 
 => Setting up WebStorm :
 1.Download WebStorm from their official website : WebStorm
-If you are a student, then you can apply for the free student developer pack after completing the necessary procedures for the same.
+- If you are a student, then you can apply for the free student developer pack after completing the necessary procedures for the same.
+
 2. Click the download button.
+
 3. Download the installer for your operating system (Windows, macOS, or Linux).
-Follow the on-screen instructions to install WebStorm.
-You may be prompted to create or log in with a JetBrains account during the installation process.
+- Follow the on-screen instructions to install WebStorm.
+- You may be prompted to create or log in with a JetBrains account during the installation process.
+
 4. Now you can launch WebStorm on your device.
 
 => The Interface :
